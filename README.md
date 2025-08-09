@@ -35,6 +35,7 @@ This is a JavaFX-based library management application that allows users to view 
 6. Click **Finalizează Împrumutul** to complete the process.
 
 ## Screenshots
-![Book List](https://github.com/user-attachments/assets/your-screenshot-id-1)  
-![Loan List](https://github.com/user-attachments/assets/your-screenshot-id-2)  
-![Updated Book List](https://github.com/user-attachments/assets/your-screenshot-id-3)  
+<img width="372" height="657" alt="Screenshot 2025-08-09 184059" src="https://github.com/user-attachments/assets/a83cd1ce-1f6c-43c1-a73d-5db62ec52156" />
+<img width="375" height="662" alt="Screenshot 2025-08-09 184121" src="https://github.com/user-attachments/assets/006dd0b5-1bd3-4f80-81e7-a2a15062bf09" />
+<img width="372" height="670" alt="Screenshot 2025-08-09 184300" src="https://github.com/user-attachments/assets/b7c14ac0-fff4-4653-bf1a-2ffa7ab17cc6" />
+<img width="370" height="659" alt="Screenshot 2025-08-09 184314" src="https://github.com/user-attachments/assets/7f5e47f5-aa47-43ef-93bc-d0e7300db449" />
