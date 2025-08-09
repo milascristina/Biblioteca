@@ -24,7 +24,7 @@ This is a JavaFX-based library management application that allows users to view 
 ## Installation & Setup
 1. Ensure you have **Java 17+** installed.
 2. Import the project into an IDE such as IntelliJ IDEA or Eclipse.
-3. Run the application from the main class (e.g., `Main.java`).
+3. Run the application from the main class.
 
 ## Usage
 1. Launch the application.
